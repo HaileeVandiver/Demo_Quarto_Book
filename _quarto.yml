@@ -1,0 +1,17 @@
+project:
+  type: book
+
+book:
+  title: "Python Stack"
+  author: "Hailee Vandiver"
+  date: "1/21/2025"
+  chapters:
+    - index.qmd
+    - VSCode.qmd
+    - Books.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
